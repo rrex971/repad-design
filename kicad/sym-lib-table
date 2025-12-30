@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rp2040-zero")(type "KiCad")(uri "/home/rohit/buildfiles/rrex_HEpad/RP2040-Zero-Kicad/rp2040-zero.kicad_sym")(options "")(descr ""))
+)
