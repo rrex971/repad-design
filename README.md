@@ -7,7 +7,7 @@
     </g>
 </svg>
 
-# rePad Hardware Design
+# re:Pad Hardware Design
 A 3-key Custom Hall Effect Keypad for osu! utilizing an RP2040-Zero base. Hardware Design Repo.
 ### _[Firmware Repo](https://github.com/rrex971/repad-firmware) | [Configurator Repo (pending)]()_
 
